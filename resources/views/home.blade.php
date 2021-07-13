@@ -108,6 +108,7 @@
             .col-50 ul > li{
                 padding:5px 0;
                 font-size:30px;
+                font-weight:700;
                 list-style:none;
             }
             .col-50 ul > li > i{
@@ -160,7 +161,7 @@
             </div>
             <div class="container bck-img">
                 <div class="col-50 ">
-                   <h2>Front </h2>
+                   <h2>Front-End </h2>
                    <ul>
                        <li><i class="fas fa-code"></i>HTML</li>
                        <li><i class="fas fa-code"></i>CSS</li>
@@ -168,7 +169,7 @@
                    </ul>
                 </div>
                 <div class="col-50 ">
-                    <h2>End</h2>
+                    <h2>Back-End</h2>
                     <ul>
                         <li><i class="fas fa-terminal"></i>PHP</li>
                         <li><i class="fas fa-terminal"></i>SQL</li>
